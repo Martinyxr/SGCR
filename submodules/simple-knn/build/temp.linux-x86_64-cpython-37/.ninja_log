@@ -1,0 +1,7 @@
+# ninja log v5
+0	11983	1703054464	/data/jdh/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	7b4941f72e650633
+0	21605	1703054474	/data/jdh/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	725552a2e3d3507
+1	46583	1703054499	/data/jdh/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	d3e0bcd88ea60f67
+0	8931	1746513423170083668	/data/lyq/yxr/Projects/SGCR/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	d34abe9485707a96
+0	14663	1746513428894083804	/data/lyq/yxr/Projects/SGCR/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	c58f74a831a96ec4
+1	33184	1746513447422084243	/data/lyq/yxr/Projects/SGCR/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	566f32674bed29da

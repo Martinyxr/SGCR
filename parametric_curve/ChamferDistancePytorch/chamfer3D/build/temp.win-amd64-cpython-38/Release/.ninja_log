@@ -1,0 +1,4 @@
+# ninja log v5
+6	6521	7472248092192216	D:/workspace/gaussian-splatting_NEF/parametric_curve/ChamferDistancePytorch/chamfer3D/build/temp.win-amd64-cpython-38/Release/chamfer_cuda.obj	750a9a5ebd719097
+4	9203	7472248118830684	D:/workspace/gaussian-splatting_NEF/parametric_curve/ChamferDistancePytorch/chamfer3D/build/temp.win-amd64-cpython-38/Release/chamfer3D.obj	50231094875388ce
+21	8133	7472248974450393	D:/workspace/gaussian-splatting_NEF/parametric_curve/ChamferDistancePytorch/chamfer3D/build/temp.win-amd64-cpython-38/Release/chamfer3D.obj	53b27d0d821c57f8

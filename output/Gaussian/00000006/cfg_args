@@ -1,0 +1,1 @@
+Namespace(data_device='cuda', eval=False, images='images', model_path='/data/lyq/yxr/Projects/SGCR/output/00000006', resolution=-1, sh_degree=0, source_path='/data/lyq/yxr/Projects/SGCR/example/00000006', white_background=False)
