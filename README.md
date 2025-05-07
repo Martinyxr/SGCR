@@ -1,5 +1,5 @@
 # SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction
----
+
 
 **Xinran Yang**, **Donghao ji**, **Yuanqi Li**, **Jie Guo**, **Yanwen Guo**, **Junyuan Xie**
 
@@ -10,7 +10,7 @@ This repository contains the official Pytorch implementation for **SGCR: Spheric
 
 
 ## Installation
----
+
 
 ```
 git clone https://github.com/Martinyxr/SGCR.git
@@ -20,7 +20,7 @@ conda activate SGCR
 ```
 
 ## Demo
----
+
 ```
 # Training Spherical Gaussians 
 python train.py -s ./example/00000006 -m ./output/Gaussain/00000006
@@ -35,7 +35,7 @@ After curve reconstruction, the results will be saved in `./output/curve/`.
 
 
 ## Citation
----
+
 if you find the code useful, please consider the following BibTeX entry.
 ```bibtex
 @InProceedings{yang2025sgcr,
@@ -49,5 +49,5 @@ if you find the code useful, please consider the following BibTeX entry.
 
 
 ## Acknowledgments
----
+
 This project is built upon [<u>3DGS</u>](https://github.com/graphdeco-inria/gaussian-splatting). The evaluation ABC-NEF dataset is from [<u>NEF</u>](https://github.com/yunfan1202/NEF_code). We use pretrained [<u>PidiNet</u>](https://github.com/hellozhuo/pidinet) for edge map extraction. We thank all the authors for their great work and repos.
