@@ -1,12 +1,34 @@
-# SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction
+<p align="center">
+
+  <h1 align="center">SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction</h1>
+  <p align="center">
+    <strong>Xinran Yang</strong></a>
+    ·
+    <strong>Donghao ji</strong></a>
+    ·
+    <strong>Yuanqi Li</strong></a>
+    ·
+    <strong>Jie Guo</strong></a>
+    ·
+    <strong>Yanwen Guo</strong></a>
+    ·
+    <strong>Junyuan Xie</strong></a>
+  </p>
+
+  <p align="center">
+    <a href="https://arxiv.org/abs/2505.04668" rel="external nofollow noopener" target='_blank'>
+        <img src="https://img.shields.io/badge/arXiv-2505.04668-B31B1B" alt='Arxiv Link'></a>
+  </p>
+  <br>
 
 
-**Xinran Yang**, **Donghao ji**, **Yuanqi Li**, **Jie Guo**, **Yanwen Guo**, **Junyuan Xie**
+  <p>This repository contains the official <b>Pytorch</b> implementation for <b>SGCR: Spherical Gaussians for 
+     Efficient 3D Curve Reconstruction</b> (CVPR2025).</p>
+  <div align="center">
+    <img src="./assets/teaser0_clear.png" alt="teaser" width="100%">
+  </div>
+</p>
 
-
-This repository contains the official Pytorch implementation for **SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction** (CVPR2025).
-
-![GitHub Logo](./assets/teaser0_clear.png)
 
 
 ## Installation
@@ -27,7 +49,6 @@ python train.py -s ./example/00000006 -m ./output/Gaussain/00000006
 
 # 3D Parametric Curve Reconstrcution 
 python ./parametric_curve/curve_fitting.py --object_id 00000006
-
 ```
 The training command is similar as [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting). 
 After curve reconstruction, the results will be saved in `./output/curve/`.
