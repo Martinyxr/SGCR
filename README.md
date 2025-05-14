@@ -62,7 +62,7 @@ if you find the code useful, please consider the following BibTeX entry.
 @InProceedings{yang2025sgcr,
   title        = {SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction},
   author       = {Yang, Xinran and Ji, Donghao and Li, Yuanqi and Guo, Jie and Guo, Yanwen and Xie, Junyuan},
-  booktitle    = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle    = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year         = {2025}
 }
 ```
